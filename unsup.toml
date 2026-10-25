@@ -1,0 +1,42 @@
+[flavor_groups.rendering]
+name = "Rendering"
+description = "How the game is drawn. Sodium is much faster; Iris adds shader packs on top of it."
+side = "client"
+[[flavor_groups.rendering.choices]]
+id = "rendering_iris"
+name = "Sodium + Iris"
+description = "Fast rendering and shader packs."
+[[flavor_groups.rendering.choices]]
+id = "rendering_sodium"
+name = "Sodium"
+description = "Fast rendering, no shaders."
+[[flavor_groups.rendering.choices]]
+id = "rendering_vanilla"
+name = "Vanilla"
+description = "The game's own renderer."
+
+[flavor_groups.maps]
+name = "Maps"
+description = "Xaero's maps. The world map shows claims, trains and hypertubes across the whole network."
+side = "client"
+[[flavor_groups.maps.choices]]
+id = "maps_both"
+name = "World map and minimap"
+[[flavor_groups.maps.choices]]
+id = "maps_world"
+name = "World map only"
+[[flavor_groups.maps.choices]]
+id = "maps_mini"
+name = "Minimap only"
+[[flavor_groups.maps.choices]]
+id = "maps_none"
+name = "No maps"
+
+[metafile.sodium]
+flavors = ["rendering_iris", "rendering_sodium"]
+[metafile.iris]
+flavors = "rendering_iris"
+[metafile.xaeros-world-map]
+flavors = ["maps_both", "maps_world"]
+[metafile.xaeros-minimap]
+flavors = ["maps_both", "maps_mini"]

@@ -1,0 +1,14 @@
+name = "Brassworks"
+author = "swzo"
+version = "1.0.8"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d2265be2bcbed8333313bd4120eb303552e59d18416f3d54d07be97987a1f3b7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.264"
+unsup = "1.1.6"
