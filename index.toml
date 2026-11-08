@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".idea/BrassworksPack.iml"
+hash = "cee52f9eee96ce0f5cc5fe41cd272af07b36850f82d2281ceb8c3124cc7ef3a9"
+
+[[files]]
+file = ".idea/modules.xml"
+hash = "a396dde5ae84959e7bc9fe5e4c1aeb7ca455dc20d4f48fdf0a2a232fe4d42713"
+
+[[files]]
+file = ".idea/vcs.xml"
+hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "721c325d112ff994a5f82b71e2b6be5bc71cb96328923c4073a235883fe83bf1"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "dde18d1ec822dd7ee1d8ab8648371c179b37fe571d1e278d7472af1f8c06c74e"
 metafile = true
@@ -13,6 +29,14 @@ metafile = true
 [[files]]
 file = "mods/brasssync_client-0.1.0.jar"
 hash = "29dbefa360a5c0f844f85ea6f52d4190d0ecf3b827c0ddb2e620b8de180481e7"
+
+[[files]]
+file = "mods/brassworks_core-0.1.0.jar"
+hash = "dc3bb8b5c4382b416c72f83fa1a2eeabe3c9914c45591d2930221e9d48794ea1"
+
+[[files]]
+file = "mods/brassworks_early-0.1.0.jar"
+hash = "f7eca6df798146b5a70528a312990349f344393dc091c10ab49df5bc798e6444"
 
 [[files]]
 file = "mods/chipped.pw.toml"
@@ -57,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "205ac4987dcaf6aa6a099c9dbcb97f9aea85b2f9b2f5953fc88c83d92afd90b5"
+metafile = true
+
+[[files]]
+file = "mods/create-more-package-couriers.pw.toml"
+hash = "3cf5c899fd967be701272b413207fe27bb360304085d7b27656dac17109f526e"
 metafile = true
 
 [[files]]
