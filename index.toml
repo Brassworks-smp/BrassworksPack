@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/BrassworksPack.iml"
-hash = "cee52f9eee96ce0f5cc5fe41cd272af07b36850f82d2281ceb8c3124cc7ef3a9"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "a396dde5ae84959e7bc9fe5e4c1aeb7ca455dc20d4f48fdf0a2a232fe4d42713"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "721c325d112ff994a5f82b71e2b6be5bc71cb96328923c4073a235883fe83bf1"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "dde18d1ec822dd7ee1d8ab8648371c179b37fe571d1e278d7472af1f8c06c74e"
 metafile = true

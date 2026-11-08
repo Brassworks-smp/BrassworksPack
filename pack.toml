@@ -1,12 +1,12 @@
 name = "Brassworks"
 author = "swzo"
-version = "1.0.9"
+version = "1.0.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22c71cebbb2eccb2ff35deb6cfeb2dea00b4a085f7055500aafb1efba8944c6e"
+hash = "fc22f51c28f6f60733e40bfc2999ec1a8b99a38d3969d7f80a90af0117e4f9c5"
 
 [versions]
 minecraft = "1.21.1"
